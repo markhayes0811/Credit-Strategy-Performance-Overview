@@ -75,7 +75,4 @@ An interactive dashboard was created with:
 - **Power BI:** interactive visuals, DAX measures, segmentation  
 - **Tools:** Jupyter/Colab, Microsoft Access, Power BI Desktop  
 
----
-
-## 📂 Folder Structure
 
