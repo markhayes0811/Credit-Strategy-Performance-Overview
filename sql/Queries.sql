@@ -1,4 +1,4 @@
-SQL Queries - ** These were run and added is MS Access
+```SQL Queries - ** These were run and added in MS Access
 
 - ApprovalRate_Overall
 
@@ -162,4 +162,5 @@ SELECT
 FROM
     credit_applications
 GROUP BY
+
     strategy_group;
